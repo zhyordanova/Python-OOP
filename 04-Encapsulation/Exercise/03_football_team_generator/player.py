@@ -1,4 +1,5 @@
 class Player:
+
     def __init__(self, name, endurance, sprint, dribble, passing, shooting):
         self.__name = name
         self.__endurance = endurance

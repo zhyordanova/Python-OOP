@@ -2,6 +2,7 @@ from collections import defaultdict
 
 
 class Pizza:
+
     def __init__(self, name, dough, toppings_capacity):
         self.__name = name
         self.__dough = dough

@@ -3,6 +3,7 @@ def play_instrument(instrument):
 
 
 class Guitar:
+
     def play(self):
         print("playing the guitar")
 
@@ -12,6 +13,7 @@ play_instrument(guitar)
 
 
 class Piano:
+
     def play(self):
         print("playing the piano")
 

@@ -1,4 +1,5 @@
 class Store:
+
     def __init__(self, name, type, capacity):
         self.name = name
         self.type = type

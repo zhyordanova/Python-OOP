@@ -15,6 +15,7 @@ class Shape(ABC):
 
 
 class Circle(Shape):
+
     def __init__(self, radius):
         self.__radius = radius
 
@@ -26,6 +27,7 @@ class Circle(Shape):
 
 
 class Rectangle(Shape):
+
     def __init__(self, height, width):
         self.__height = height
         self.__width = width

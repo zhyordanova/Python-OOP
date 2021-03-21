@@ -1,4 +1,5 @@
 class Customer:
+
     customer_id = 0
 
     def __init__(self, name, address, email):
