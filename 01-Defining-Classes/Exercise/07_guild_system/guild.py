@@ -31,5 +31,3 @@ class Guild:
         for p in self.players:
             result += p.player_info()
         return result
-
-
