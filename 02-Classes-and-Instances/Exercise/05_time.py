@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 
 
+
 class Time:
     max_hours = 23
     max_minutes = 59
