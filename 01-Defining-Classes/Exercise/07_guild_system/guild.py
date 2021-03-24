@@ -2,7 +2,6 @@ from player import Player
 
 
 class Guild:
-
     def __init__(self, name):
         self.name = name
         self.players = []
@@ -31,3 +30,5 @@ class Guild:
         for p in self.players:
             result += p.player_info()
         return result
+
+
