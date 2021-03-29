@@ -1,5 +1,8 @@
 class Account:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 28949ad61f15547edd1c92e921eb0e176bf43424
     def __init__(self, id, name, balance=0):
         self.id = id
         self.name = name

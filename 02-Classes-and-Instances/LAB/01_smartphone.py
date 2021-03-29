@@ -1,5 +1,4 @@
 class Smartphone:
-
     def __init__(self, memory):
         self.memory = memory
         self.memory_taken = 0
